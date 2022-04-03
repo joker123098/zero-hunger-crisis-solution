@@ -1,6 +1,6 @@
 # Zero Hunger crisis Solution
 
-![align="center"](https://github.com/sahajoydeep2002/ZHunger/blob/main/Images/Zero%20Hunger.gif)
+![align="center"](https://github.com/sahajoydeep2002/zero-hunger-crisis-solution/blob/main/Images/Zero%20Hunger.gif)
 
 ### What's the problem?
 Approximately 9 percent of the global population is suffering from hunger. And, much of the world’s food is grown by small-scale, independent farms and distributed through local community cooperatives who sell the surplus produce. The co-ops are a central point for quality control, deliveries, and enabling food commodity markets. However, these co-ops face a myriad of logistical challenges to get the right food to the right places with minimal time and cost.
